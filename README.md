@@ -24,8 +24,6 @@ Amazon is a global e-commerce giant and cloud service provider with tools and pl
 - [Communities](#communities)
 - [Related Awesome Lists](#related-awesome-lists)
 
----
-
 ## Amazon Seller & FBA
 
 - [Amazon Seller Central](https://sellercentral.amazon.com/) – Dashboard for managing your seller account.
@@ -103,7 +101,9 @@ Amazon is a global e-commerce giant and cloud service provider with tools and pl
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
