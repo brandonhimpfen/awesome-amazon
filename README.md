@@ -1,4 +1,4 @@
-# Awesome Amazon [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Amazon [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -93,11 +93,11 @@ Amazon is a global e-commerce giant and cloud service provider with tools and pl
 
 ## Related Awesome Lists
 
-- **[Awesome AWS](https://github.com/awesomelistsio/awesome-aws)**
-- **[Awesome E-Commerce](https://github.com/awesomelistsio/awesome-ecommerce)**
-- **[Awesome Affiliate Marketing](https://github.com/awesomelistsio/awesome-affiliate-marketing)**
-- **[Awesome Blogging Monetization](https://github.com/awesomelistsio/awesome-blogging-monetization)**
-- **[Awesome Self Publishing](https://github.com/awesomelistsio/awesome-self-publishing)**
+- **[Awesome AWS](https://github.com/brandonhimpfen/awesome-aws)**
+- **[Awesome E-Commerce](https://github.com/brandonhimpfen/awesome-ecommerce)**
+- **[Awesome Affiliate Marketing](https://github.com/brandonhimpfen/awesome-affiliate-marketing)**
+- **[Awesome Blogging Monetization](https://github.com/brandonhimpfen/awesome-blogging-monetization)**
+- **[Awesome Self Publishing](https://github.com/brandonhimpfen/awesome-self-publishing)**
   
 ## Contribute
 
