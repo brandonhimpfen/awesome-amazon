@@ -66,10 +66,11 @@ Amazon is a global e-commerce giant and cloud service provider with tools and pl
 
 ## Extensions & Tools
 
-- [Keepa Browser Extension](https://keepa.com/) – Price history tracking directly on Amazon product pages.
 - [Amazon Assistant](https://www.amazon.com/assistant) – Browser extension with deals, order tracking, and product comparisons.
-- [Honey](https://www.joinhoney.com/) – Automatically applies coupon codes, including some Amazon deals.
 - [CamelCamelCamel](https://camelcamelcamel.com/) – Amazon price tracker.
+- [CardDeals](https://carddeals.co) – Browser extension and comparison engine that automatically finds verified discounted Amazon gift cards at checkout.
+- [Honey](https://www.joinhoney.com/) – Automatically applies coupon codes, including some Amazon deals.
+- [Keepa Browser Extension](https://keepa.com/) – Price history tracking directly on Amazon product pages.
 
 ## APIs
 
